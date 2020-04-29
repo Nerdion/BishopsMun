@@ -10,9 +10,9 @@ class Database {
     function getConnection() {
         
         $this->servername = "localhost";
-        $this->username = "root";
-        $this->password = "";
-        $this->dbname = "u752327893_maindb";
+        $this->username = "u752327893_maindb";
+        $this->password = "Chaicreamroll24@";
+        $this->dbname = "u752327893_mun";
         // Create connection
         $con = new mysqli($this->servername, $this->username, $this->password, $this->dbname);
         return $con;
