@@ -1,0 +1,114 @@
+/**************************************
+    Template Name: Micrology
+    Created By: HTML.Design
+    https://html.design
+**************************************/
+
+/*************** GRADIENT 01 (RED & ORANGE) ***************/
+
+.grd1 {
+	background: #224D08;
+background: -webkit-linear-gradient(top left, #224D08, #87B2B2);
+background: -moz-linear-gradient(top left, #224D08, #87B2B2);
+background: linear-gradient(to bottom right, #224D08, #87B2B2);
+}
+
+/*************** GRADIENT 02 (PURPLE & NAVY) ***************/
+
+.grd2 {
+    background: #224D08;
+background: -webkit-linear-gradient(top left, #224D08, #87B2B2);
+background: -moz-linear-gradient(top left, #224D08, #87B2B2);
+background: linear-gradient(to bottom right, #224D08, #87B2B2);
+}
+
+/*************** GRADIENT 03 (BLACK & DARK BLUE) ***************/
+
+
+
+.grd4 {
+    background-image: linear-gradient(to right top, #43cea2, #00b5b3, #0099bb, #007ab4, #185a9d);
+}
+.grd5 {
+    background-image: linear-gradient(to right top, #43cea2, #00b5b3, #0099bb, #007ab4, #185a9d);
+}
+.grd6 {
+    background-image: linear-gradient(to right top, #43cea2, #00b5b3, #0099bb, #007ab4, #185a9d);
+}
+.grdnew {
+    background-image: linear-gradient(to right top, #43cea2, #00b5b3, #0099bb, #007ab4, #185a9d);
+}
+
+.grd7 {
+    background-image: linear-gradient(to right top, #43cea2, #00b5b3, #0099bb, #007ab4, #185a9d);
+}
+
+/*************** PURPLE ***************/
+
+.footer.lb h4 i,
+.service-style-04 a,
+.service-style-04 i,
+.service-style-03 i {
+  color:#18589d !important;
+}
+
+.section-title.cpurple h4 {
+  border-bottom-color: #18589d;
+} 
+
+
+/*************** ORANGE ***************/
+
+a,
+.fa-star,
+.service-desc-01:hover i,
+.service-box:hover h4,
+.navbar-brand:hover i,
+.yamm-fw li a:before,
+.btn.withicon:hover i,
+.btn.withicon:focus i {
+    color:#ffffff;
+}
+
+.btn-orange {
+    background-color: #18589d !important;
+}
+.section-title h4 {
+    border-bottom-color: #18589d;
+}
+
+.hero mark,
+.btn-primary:hover,
+.btn-primary:focus, .btn-primary.focus,
+.btn-primary.disabled, .btn-primary:disabled,
+.btn-primary:active, .btn-primary.active,
+.show > .btn-primary.dropdown-toggle {
+  color: #ffffff;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+/*************** DARK BLUE ***************/
+
+
+.playbutton:hover i,
+.playbutton:focus i,
+div.sidewrapper.sidenav,
+.owl-style-01 .owl-nav [class*="owl-"]:hover,
+.owl-style-02 .owl-nav [class*="owl-"]:hover,
+.btn-orange:hover,
+.btn-orange:focus, .btn-orange.focus,
+.btn-orange.disabled, .btn-orange:disabled,
+.btn-orange:active, .btn-orange.active,
+.show > .btn-orange.dropdown-toggle  {
+  color:#ffffff;
+    background-color: #18589d !important;
+    border-color: #18589d !important;
+}
+
+.menu-image .btn,
+.btn-primary,
+.section.db,
+.footer {
+    background-color: #18589d;
+}
